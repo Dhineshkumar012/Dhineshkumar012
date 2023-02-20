@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Dhineshkumar012
 - 👀 I’m interested in ...
-Linux admin
-Software testing
+Linux administration
+Software testing 
 My long term goal is to be full stack developer.
 
 - 🌱 I’m currently learning ...
-Selenium
+Python
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
