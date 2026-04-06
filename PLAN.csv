@@ -1,0 +1,59 @@
+Phase,Week,Topics,Description,Resources
+Core Java,Week 1 (Days 1-7),Java Basics,"Introduction to Java, JVM, JRE, JDK, Variables, Operators, Control flow statements, Functions","GeeksforGeeks, Head First Java, Oracle Docs"
+Core Java,Week 2 (Days 8-14),Object-Oriented Programming,"Classes, Objects, Inheritance, Polymorphism, Encapsulation, Exception Handling, Interfaces","Java OOP Concepts - TutorialsPoint, Java SE Docs"
+Core Java,Week 3 (Days 15-21),Collections and Generics,"Java Collections, Generics, Stream API","Java Collections - GeeksforGeeks, Oracle Docs"
+Core Java,Week 4 (Days 22-25),Multithreading and Concurrency,"Threads, Synchronization, Concurrency utilities","Java Concurrency in Practice, Multithreading - Oracle Docs"
+Data Structures & Algorithms,Week 5 (Days 26-32),Basic Data Structures,"Arrays, Linked Lists, Stacks, Queues, HashMaps, Trees","LeetCode, GeeksforGeeks"
+Data Structures & Algorithms,Week 6 (Days 33-38),Algorithms,"Sorting, Searching, Recursion, Dynamic Programming","CLRS - Introduction to Algorithms, GeeksforGeeks"
+Data Structures & Algorithms,Week 7 (Days 39-45),Advanced Data Structures & Algorithms,"Graphs, Heaps, Tries, Backtracking, Greedy algorithms","Coursera Graph Algorithms, InterviewBit"
+Spring Boot and Microservices,Week 8 (Days 46-52),Spring Framework Basics,"Spring Boot introduction, Dependency Injection, Beans, Spring Data JPA with databases","Spring Boot Documentation, Baeldung Spring Framework"
+Spring Boot and Microservices,Week 9 (Days 53-60),REST APIs and Spring MVC,"Building RESTful APIs, Controllers, Exception handling, Validation","Spring Boot REST Tutorial, Baeldung Spring MVC"
+Spring Boot and Microservices,Week 10 (Days 61-70),Microservices and Spring Cloud,"Microservices, Spring Cloud, Eureka, API Gateway, Hystrix","Spring Cloud Documentation, Spring Microservices in Action"
+Advanced Topics,Week 11 (Days 71-80),"Kafka, Redis, and Messaging","Kafka (Producer-Consumer), Redis (Caching, Pub/Sub), Message Queues","Kafka Docs, Redis Docs, Baeldung Spring Kafka"
+Advanced Topics,Week 12 (Days 81-90),Security and Deployment,"Spring Security (OAuth2, JWT), Docker, CI/CD with Jenkins, GitLab, or GitHub Actions","Spring Security Docs, Baeldung Spring Boot Docker"
+Advanced Topics,Week 13-14 (Days 91-100),Building Full Application,"Building a full-fledged application, including REST APIs, OAuth2, Kafka, Redis, CI/CD deployment","Final project: Build e-commerce or social media app with REST APIs, OAuth2, Kafka, Redis"
+,,,,
+Phase,Week,Topics,Description,Resources
+Core Python,Week 1 (Days 1-7),Python Basics,"Variables, Data Types, Operators, Control Flow (if, loops), Lists, Dictionaries, Sets","Python.org Docs, Automate the Boring Stuff with Python"
+Core Python,Week 2 (Days 8-14),Functions and Modules,"Defining Functions, Recursion, Lambda, Higher-order Functions, Modules and Packages","Real Python, Python Module Docs"
+Core Python,Week 3 (Days 15-21),Object-Oriented Programming,"Classes, Objects, Inheritance, Polymorphism, Encapsulation","OOP in Python - Real Python, Python Docs"
+Core Python,Week 4 (Days 22-25),Exception Handling and File I/O,"Exception Handling, File Handling, Reading and Writing Files","Exception Handling - GeeksforGeeks, File I/O - Python Docs"
+Data Structures & Algorithms,Week 5 (Days 26-32),Basic Data Structures,"Arrays, Linked Lists, Stacks, Queues, HashMaps, Trees","LeetCode, GeeksforGeeks"
+Data Structures & Algorithms,Week 6 (Days 33-38),Algorithms,"Sorting (QuickSort, MergeSort), Searching (Binary Search), Recursion, Dynamic Programming","Introduction to Algorithms (CLRS), GeeksforGeeks"
+Data Structures & Algorithms,Week 7 (Days 39-45),Advanced Data Structures & Algorithms,"Graphs (DFS, BFS), Heaps, Tries, Segment Trees","Coursera Graph Algorithms, InterviewBit"
+Web Development with Django/Flask,Week 8 (Days 46-52),Django/Flask Basics,"Setting up Django/Flask, URL Routing, Templates, Views","Django/Flask Docs, Real Python"
+Web Development with Django/Flask,Week 9 (Days 53-60),Building Web Apps with Django/Flask,"Creating Web Forms, Database Connections, User Authentication, Middleware","Full Stack Django with React - Udemy, Flask Web Development - O'Reilly"
+APIs and RESTful Services,Week 10 (Days 61-70),REST APIs with Django/Flask,"REST APIs, JSON Serialization, Authentication, CRUD Operations","REST API Tutorial - Real Python, Building APIs with Flask/Django"
+Advanced Topics,Week 11 (Days 71-80),Testing and Debugging,"Unit Testing, Debugging Tools, Logging","Unit Testing in Python - Real Python, Python Debugging Tools"
+Advanced Topics,Week 12 (Days 81-90),Concurrency and Asyncio,"Asyncio, Multithreading, Multiprocessing","Concurrency in Python - Python Docs, Asyncio Tutorial"
+Advanced Topics,Week 13-14 (Days 91-100),Building Full Application,"Building a full-fledged Python web application, deploying to the cloud",Final project: Build a fully-featured Python web app with REST APIs and cloud deployment
+,,,,
+Phase,Week,Topics,Description,
+Programming Basics,Week 1 (Days 1-4),"Variables, Data Types, Operators","Learn variables, data types, operators, basic syntax.",
+Programming Basics,Week 1 (Days 5-7),Control Structures,"Understand if-else, loops, switch-case.",
+Programming Basics,Week 2 (Days 8-10),Functions and Procedures,"Master functions, recursion, lambda functions.",
+Programming Basics,Week 2 (Days 11-14),Input/Output & Error Handling,Learn I/O operations and exception handling.,
+Object-Oriented Programming,Week 3 (Days 15-17),Introduction to OOP,Understand OOP principles.,
+Object-Oriented Programming,Week 3 (Days 18-21),Classes and Objects,"Classes, objects, methods, attributes.",
+Object-Oriented Programming,Week 4 (Days 22-25),"Inheritance, Polymorphism, Encapsulation","Inheritance, polymorphism, encapsulation, method overloading.",
+Object-Oriented Programming,Week 4 (Days 26-28),Interfaces and Abstract Classes,"Interfaces, abstract classes, design patterns.",
+Data Structures,Week 5 (Days 29-33),Arrays and Linked Lists,"Arrays, linked lists, operations.",
+Data Structures,Week 5 (Days 34-37),Stacks and Queues,"Stacks, queues and their applications.",
+Data Structures,Week 6 (Days 38-41),Hash Maps and Hash Tables,"Hash maps, hash tables, and hash functions.",
+Data Structures,Week 6 (Days 42-45),"Trees (Binary Trees, BSTs)","Binary trees, traversal methods, BST.",
+Algorithms,Week 7 (Days 46-48),Sorting Algorithms,"Bubble sort, quicksort, mergesort.",
+Algorithms,Week 7 (Days 49-52),Searching Algorithms,"Binary search, linear search.",
+Algorithms,Week 8 (Days 53-55),Recursion and Dynamic Programming,"Recursion, dynamic programming problems.",
+Algorithms,Week 8 (Days 56-58),Backtracking,"Backtracking techniques (e.g., N-queens).",
+Advanced Data Structures,Week 9 (Days 59-62),Graphs and Graph Traversal,"Graphs, BFS, DFS algorithms.",
+Advanced Data Structures,Week 9 (Days 63-65),Heaps and Priority Queues,"Heaps, priority queues, implementations.",
+Advanced Data Structures,Week 10 (Days 66-68),Tries,Tries and their applications.,
+Advanced Data Structures,Week 10 (Days 69-70),Segment Trees and Fenwick Trees,"Segment trees, range queries.",
+Advanced Programming Concepts,Week 11 (Days 71-74),Memory Management,"Stack vs heap memory, garbage collection.",
+Advanced Programming Concepts,Week 11 (Days 75-78),Pointers and References,"Pointers, memory addresses (C/C++).",
+Advanced Programming Concepts,Week 12 (Days 79-82),Multithreading and Concurrency,"Threading, concurrency, synchronization.",
+Advanced Programming Concepts,Week 12 (Days 83-85),File Handling,"File read/write, handle CSV/JSON files.",
+Algorithms in Depth,Week 13 (Days 86-88),Greedy Algorithms,Greedy algorithm strategies.,
+Algorithms in Depth,Week 13 (Days 89-91),Divide and Conquer Algorithms,Divide and conquer strategies (quicksort).,
+Algorithms in Depth,Week 14 (Days 92-94),Graph Algorithms (Advanced),Advanced graph algorithms (Dijkstra's).,
+Algorithms in Depth,Week 14 (Days 95-100),"Dynamic Programming (Advanced), Time Complexity, Optimization","Time complexity analysis, space complexity, dynamic programming.",
